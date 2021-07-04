@@ -1,0 +1,12 @@
+H:\Documents\Arquivos\faculdade\3 semestre\repos\MC Data Pack\bin\Release\MC Data Pack.exe.config
+H:\Documents\Arquivos\faculdade\3 semestre\repos\MC Data Pack\bin\Release\MC Data Pack.exe
+H:\Documents\Arquivos\faculdade\3 semestre\repos\MC Data Pack\bin\Release\MC Data Pack.pdb
+H:\Documents\Arquivos\faculdade\3 semestre\repos\MC Data Pack\obj\Release\MC Data Pack.csproj.AssemblyReference.cache
+H:\Documents\Arquivos\faculdade\3 semestre\repos\MC Data Pack\obj\Release\MC_Data_Pack.DataPack.resources
+H:\Documents\Arquivos\faculdade\3 semestre\repos\MC Data Pack\obj\Release\MC_Data_Pack.Form1.resources
+H:\Documents\Arquivos\faculdade\3 semestre\repos\MC Data Pack\obj\Release\MC_Data_Pack.Properties.Resources.resources
+H:\Documents\Arquivos\faculdade\3 semestre\repos\MC Data Pack\obj\Release\MC_Data_Pack.SplashScreen.resources
+H:\Documents\Arquivos\faculdade\3 semestre\repos\MC Data Pack\obj\Release\MC Data Pack.csproj.GenerateResource.cache
+H:\Documents\Arquivos\faculdade\3 semestre\repos\MC Data Pack\obj\Release\MC Data Pack.csproj.CoreCompileInputs.cache
+H:\Documents\Arquivos\faculdade\3 semestre\repos\MC Data Pack\obj\Release\MC Data Pack.exe
+H:\Documents\Arquivos\faculdade\3 semestre\repos\MC Data Pack\obj\Release\MC Data Pack.pdb
